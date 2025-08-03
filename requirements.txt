@@ -5,5 +5,5 @@ google-generativeai
 pypdf
 requests
 numpy
-pinecone-client
+pinecone
 psycopg2-binary # For connecting to PostgreSQL
