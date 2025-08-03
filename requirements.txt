@@ -1,0 +1,9 @@
+# requirements.txt
+fastapi
+uvicorn
+google-generativeai
+pypdf
+requests
+numpy
+pinecone-client
+psycopg2-binary # For connecting to PostgreSQL
